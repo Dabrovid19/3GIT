@@ -1,0 +1,4 @@
+- search: /PASSWORD/
+  replacement: /12345678/
+  insensitive: true
+  extended: true

@@ -1,0 +1,4 @@
+- search: //12345678//
+  replacement: 12345678
+  insensitive: true
+  extended: true
