@@ -1,4 +1,4 @@
-- search: //1268//
-  replacement: /12345678/
+- search: //12368//
+  replacement: /1268/
   insensitive: true
   extended: true
